@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Linq2programcic\bin\Debug\Linq2programcic.exe.config
+C:\Users\ucenik\source\repos\Linq2programcic\bin\Debug\Linq2programcic.exe
+C:\Users\ucenik\source\repos\Linq2programcic\bin\Debug\Linq2programcic.pdb
+C:\Users\ucenik\source\repos\Linq2programcic\obj\Debug\Linq2programcic.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Linq2programcic\obj\Debug\Linq2programcic.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Linq2programcic\obj\Debug\Linq2programcic.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Linq2programcic\obj\Debug\Linq2programcic.exe
+C:\Users\ucenik\source\repos\Linq2programcic\obj\Debug\Linq2programcic.pdb
